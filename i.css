@@ -1,0 +1,21 @@
+.left{
+    width:30%;
+    height: 100%;
+   
+    float: left;
+}
+.right{
+      width:65%;
+      height:100%;
+
+      float: right;
+}
+.vertical{
+    border-left: 3px solid black;
+    height:950px;
+    position:absolute;
+    left:32%;
+}
+body{
+    background-image:url(./bm.jpg) ;
+}
